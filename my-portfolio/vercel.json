@@ -1,5 +1,5 @@
 {
     "buildCommand": "npm run build",
-    "InstallCommand": "npm install",
+    "InstallCommand": "npm install --include=dev",
     "outputDirectory": "dist"
 }
